@@ -2,138 +2,95 @@
 
 Welcome to the **OIBSIP** repository. This repository contains four task folders for Level 2.
 
+## # TASK 1: Calculator
 
+<a href="https://github.com/Ankit-Singh1234/OIBSIP/tree/main/TASK%201%20Calculator"> Task 1: Calculator </a>
 
-TASK 1 Calculator 
+This task involves the development of a **Scientific Calculator** with a user-friendly interface that performs various mathematical operations. Developed using **HTML**, **CSS**, and **JavaScript**, it includes:
 
+- **Basic Operations**: Addition, subtraction, multiplication, division, and percentage calculations.
+- **Advanced Operations**: Square root, cube root, power functions, exponentiation, logarithmic (`log`, `ln`), factorial (`n!`), and trigonometric (`sin`, `cos`, `tan`) calculations.
+- **Constants and Special Functions**: Constants like π (Pi) and functions like backspace and all-clear (AC).
+- **Interactive UI**: Real-time display updates with smooth hover and active effects on buttons.
+- **Responsive Design**: Layout adjusts to different screen sizes for various devices.
+- **Background Image**: Features a mathematical background image, 'math.jpg', for aesthetic enhancement.
 
+## # TASK 2: Tribute Page
 
+<a href="https://github.com/Ankit-Singh1234/OIBSIP/tree/main/TASK%202%20Tribute%20Page">TASK 2 Tribute Page: Tribute to Flying Officer Nirmal Jit Singh Sekhon</a>
 
-<a href="https://github.com/Ankit-Singh1234/OIBSIP/tree/main/TASK%201%20Calculator"> Task 1:  Calculator </a>
-
-This task is on the development of a **Scientific Calculator** with a friendly user interface that could perform various mathematical operations. This calculator is developed using **HTML**, **CSS**, and **JavaScript**, and the following features have been added into it:
-
-- **Basic Operations:** Addition, subtraction, multiplication, division, and percentage calculations.
-- **Advanced Operations:** Square root, cube root, power functions, exponentiation, logarithmic (`log`, `ln`), factorial (`n!`), and trigonometric (`sin`, `cos`, `tan`) calculations.
-- **Constants and Special Functions**: This would include constants like π (Pi) and would support special functions like backspace and all-clear (AC).
-- **Interactive UI**: It features an interactive UI that updates the display in real-time. This shows either the current input or result, with smooth hover and active effects on buttons.
-- **Responsive Design**: The layout fits different screen sizes, ensuring usability on various devices.
-- **Background Image:** It uses a mathematical background image, 'math.jpg', to make the interface look more beautiful.
-
-
-
-TASK 2 TASK 2 Tribute Page
-
-
-
-
-<a href="https://github.com/Ankit-Singh1234/OIBSIP/tree/main/TASK%202%20Tribute%20Page">TASK 2 Tribute Page : Tribute to Flying Officer Nirmal Jit Singh Sekhon</a>
-
-This project is a tribute webpage dedicated to Flying Officer Nirmal Jit Singh Sekhon, the only member of the Indian Air Force to be posthumously awarded the Param Vir Chakra, India's highest military decoration for gallantry. The webpage aims to honor his bravery and sacrifice for the nation.
+This project is a tribute webpage dedicated to Flying Officer Nirmal Jit Singh Sekhon, the only member of the Indian Air Force to be posthumously awarded the Param Vir Chakra. The webpage provides an engaging experience with a video background, images, and text about his bravery and sacrifice.
 
 ### Project Overview
 
-The webpage provides a detailed account of Nirmal Jit Singh Sekhon's life, his acts of valor during the Indo-Pakistani War of 1971, and the recognition he received posthumously. The page is designed with a video background, images, and text to provide an engaging user experience.
+- **Background Video**: A muted video enhances the tribute ambiance.
+- **Hero Section**: Prominent display of Sekhon's image and biography.
+- **About Section**: Details of his life, career, and sacrifice.
+- **Honors and Recognition**: Highlights the honors and memorials dedicated to him.
+- **Gallery**: Showcases various memorabilia and honors.
 
 ### Files and Structure
 
-The project consists of the following files:
-
-- **index.html**: The main HTML file containing the content and structure of the tribute page.
-- **style.css**: The CSS file that styles the webpage, providing layout, colors, and font styles.
-- **IAF bg video FO SHEKHON.mp4**: A background video that plays on the webpage, creating a solemn tribute atmosphere.
-- **nirmal_jit_singh_sekhon.jpeg**: An image of Flying Officer Nirmal Jit Singh Sekhon displayed on the page.
-- **logo.png**, **Flag_of_India.png**, **Air_Force_Ensign_of_India.png**: Images used to represent the Indian Air Force and the Indian flag.
-- **Param_Vir_Chakra.png**: The insignia of the Param Vir Chakra, highlighting the honor awarded to Sekhon.
-- **statue.png**, **national war memorial.png**: Images showing statues and memorials dedicated to Nirmal Jit Singh Sekhon.
-
-### Key Features
-
-- **Background Video**: A muted video plays in the background, enhancing the tribute ambiance.
-- **Hero Section**: Includes a prominent display of Nirmal Jit Singh Sekhon's image and a brief biography.
-- **About Section**: Provides detailed information about his life, career, and ultimate sacrifice during the 1971 war.
-- **Honors and Recognition**: Highlights the honors received and memorials dedicated to his memory.
-- **Gallery**: A collection of images showcasing various memorabilia and honors associated with Nirmal Jit Singh Sekhon.
+- **index.html**: Main HTML file.
+- **style.css**: Styling for the webpage.
+- **IAF bg video FO SHEKHON.mp4**: Background video.
+- **nirmal_jit_singh_sekhon.jpeg**: Image of Sekhon.
+- **logo.png**, **Flag_of_India.png**, **Air_Force_Ensign_of_India.png**: Representational images.
+- **Param_Vir_Chakra.png**: Insignia of the Param Vir Chakra.
+- **statue.png**, **national war memorial.png**: Statues and memorials images.
 
 ### How to Run
 
-To view the webpage, simply open the `index.html` file in any web browser. Ensure all the associated media files (images, video, and CSS) are in the same directory to display correctly.
+Open the `index.html` file in any web browser, ensuring all associated media files are in the same directory.
 
+## # TASK 3: A Basic To-Do Webapp
 
-# Task 3: A Basic To-Do Webapp
+<a href="https://github.com/Ankit-Singh1234/OIBSIP/tree/main/TASK%203%20A%20Basic%20To-Do%20Webapp">Task 3: A Basic To-Do Webapp</a>
 
-
-<a href="https://github.com/Ankit-Singh1234/OIBSIP/tree/main/TASK%203%20A%20Basic%20To-Do%20Webapp">Task 3: A Basic To-Do Webapp  </a>
-
-
-
-
-
-This project is a simple web-based to-do application that allows users to add, edit, complete, and delete tasks. It utilizes local storage to save the tasks, ensuring that they persist even after the browser is closed.
+This project is a simple web-based to-do application allowing users to manage tasks effectively. It uses local storage to save tasks and offers features for adding, editing, completing, and deleting tasks.
 
 ### Project Overview
 
-The To-Do Webapp is designed to help users manage their tasks effectively. It provides an intuitive user interface with the ability to add new tasks, mark tasks as completed, edit existing tasks, and delete tasks. Tasks are categorized into pending and completed lists for better organization.
+- **Add Tasks**: Input field and "Add Task" button.
+- **Complete Tasks**: Move tasks to the completed list.
+- **Edit Tasks**: Modify task content.
+- **Delete Tasks**: Remove tasks from lists.
+- **Local Storage**: Persists tasks between sessions.
+- **Responsive Design**: Works well on various screen sizes.
 
 ### Files and Structure
 
-The project consists of the following files:
-
-- **index.html**: The main HTML file containing the structure and layout of the to-do application.
-- **style.css**: The CSS file that styles the webpage, providing the layout, colors, and font styles.
-- **app.js**: The JavaScript file that contains the logic for adding, editing, completing, and deleting tasks, as well as handling local storage for task persistence.
-
-### Key Features
-
-- **Add Tasks**: Users can add new tasks using the input field and the "Add Task" button.
-- **Complete Tasks**: Tasks can be marked as completed, moving them to the completed tasks list.
-- **Edit Tasks**: Users can edit tasks to modify their content.
-- **Delete Tasks**: Tasks can be removed from both the pending and completed lists.
-- **Local Storage**: Tasks are saved in the browser's local storage, allowing them to persist between sessions.
-- **Responsive Design**: The app is designed to be responsive and works well on various screen sizes.
+- **index.html**: Structure and layout.
+- **style.css**: Styling for the app.
+- **app.js**: Logic for task management and local storage.
 
 ### How to Run
 
-To use the To-Do Webapp:
+1. Download or clone the repository.
+2. Open `index.html` in any web browser.
+3. Interact with the to-do list.
 
-1. Download or clone the repository to your local machine.
-2. Open the `index.html` file in any web browser.
-3. Interact with the to-do list by adding, completing, editing, or deleting tasks.
+## # TASK 4: Login Authentication
 
+<a href="https://github.com/Ankit-Singh1234/OIBSIP/tree/main/TASK%204%20Login%20authentication">TASK 4: Login Authentication</a>
 
+This project is a simple web application for user registration, login, and accessing a secure page. It consists of three main pages: a registration page (`index.html`), a login page (`login.html`), and a secure page (`secure.html`), using HTML, CSS, and JavaScript for user authentication with local storage.
 
-TASK 4 Login authentication 
+### Features
 
+- **Registration**: Create a new account with a username and password.
+- **Login**: Access the app using registered credentials.
+- **Secure Page**: Accessible after successful login.
+- **Logout**: Return to the login page.
 
+### Project Structure
 
-<a href="https://github.com/Ankit-Singh1234/OIBSIP/tree/main/TASK%204%20Login%20authentication">:TASK 4 Login authentication </a>
+- `index.html`: Registration page.
+- `login.html`: Login page.
+- `secure.html`: Secure page.
+- `style.css`: Styling for all pages.
+- `script.js`: JavaScript for form submission, validation, and local storage.
 
+### Getting Started
 
-
-This project is a simple web application that allows users to register, log in, and access a secure page. The app consists of three main pages: a registration page (`index.html`), a login page (`login.html`), and a secure page (`secure.html`). The app uses HTML, CSS, and JavaScript to manage user registration and authentication using local storage.
-
-## Features
-
-- **Registration**: Users can register by providing a username and password.
-- **Login**: Registered users can log in using their credentials.
-- **Secure Page**: After logging in, users are redirected to a secure page.
-- **Logout**: Users can log out and return to the login page.
-
-## Project Structure
-
-- `index.html`: Registration page where users can create a new account.
-- `login.html`: Login page where users can log in with their registered credentials.
-- `secure.html`: Secure page accessible only after successful login.
-- `style.css`: CSS file containing the styling for all pages.
-- `script.js`: JavaScript file handling form submission, validation, and local storage operations.
-
-## Getting Started
-
-### Prerequisites
-
-To run this project, you need a modern web browser that supports JavaScript and Local Storage.
-
-
-
-
-
+To run the project, use a modern web browser that supports JavaScript and Local Storage.
