@@ -18,7 +18,7 @@ This task is on the development of a **Scientific Calculator** with a friendly u
 
 - ### Live Demo
 
-You can try out the live version of this calculator [here](https://ankit-singh1234.github.io/OIBSIP/TASK%201%20Calculator/)!
+You can try out the live version of this calculator [here](https://Ankit-Singh1234.github.io/OIBSIP/Task1/)!
 
 
 
