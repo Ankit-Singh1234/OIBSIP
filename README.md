@@ -4,7 +4,7 @@ Welcome to the **OIBSIP** repository. This repository contains four task folders
 
 
 
-#TASK 1 Calculator 
+TASK 1 Calculator 
 
 
 
@@ -22,7 +22,7 @@ This task is on the development of a **Scientific Calculator** with a friendly u
 
 
 
-#TASK 2 TASK 2 Tribute Page
+TASK 2 TASK 2 Tribute Page
 
 
 
@@ -102,7 +102,7 @@ To use the To-Do Webapp:
 
 
 
-#TASK 4 Login authentication 
+TASK 4 Login authentication 
 
 
 
