@@ -2,10 +2,14 @@
 
 Welcome to the **OIBSIP** repository. This repository contains four task folders for Level 2.
 
+
+
 #TASK 1 Calculator 
 
-<br>
-<a href="https://github.com/Ankit-Singh1234/OIBSIP/tree/main/TASK%201%20Calculator">Task 1: Task 1:  Calculator </a>
+
+
+
+<a href="https://github.com/Ankit-Singh1234/OIBSIP/tree/main/TASK%201%20Calculator"> Task 1:  Calculator </a>
 
 This task is on the development of a **Scientific Calculator** with a friendly user interface that could perform various mathematical operations. This calculator is developed using **HTML**, **CSS**, and **JavaScript**, and the following features have been added into it:
 
@@ -19,6 +23,9 @@ This task is on the development of a **Scientific Calculator** with a friendly u
 
 
 #TASK 2 TASK 2 Tribute Page
+
+
+
 
 <a href="https://github.com/Ankit-Singh1234/OIBSIP/tree/main/TASK%202%20Tribute%20Page">TASK 2 Tribute Page : Tribute to Flying Officer Nirmal Jit Singh Sekhon</a>
 
@@ -98,7 +105,7 @@ To use the To-Do Webapp:
 #TASK 4 Login authentication 
 
 
-<br>
+
 <a href="https://github.com/Ankit-Singh1234/OIBSIP/tree/main/TASK%204%20Login%20authentication">:TASK 4 Login authentication </a>
 
 
