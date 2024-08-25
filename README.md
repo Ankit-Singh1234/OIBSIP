@@ -2,7 +2,9 @@
 
 Welcome to the **OIBSIP** repository. This repository contains four task folders for Level 2.
 
-##TASK 1 Calculator
+#TASK 1 Calculator 
+
+<br>
 <a href="https://github.com/Ankit-Singh1234/OIBSIP/tree/main/TASK%201%20Calculator">Task 1: Task 1:  Calculator </a>
 
 This task is on the development of a **Scientific Calculator** with a friendly user interface that could perform various mathematical operations. This calculator is developed using **HTML**, **CSS**, and **JavaScript**, and the following features have been added into it:
@@ -16,11 +18,8 @@ This task is on the development of a **Scientific Calculator** with a friendly u
 
 
 
-##TASK 2 TASK 2 Tribute Page
+#TASK 2 TASK 2 Tribute Page
 
-
-
-## Task 2: Tribute Webpage
 <a href="https://github.com/Ankit-Singh1234/OIBSIP/tree/main/TASK%202%20Tribute%20Page">TASK 2 Tribute Page : Tribute to Flying Officer Nirmal Jit Singh Sekhon</a>
 
 This project is a tribute webpage dedicated to Flying Officer Nirmal Jit Singh Sekhon, the only member of the Indian Air Force to be posthumously awarded the Param Vir Chakra, India's highest military decoration for gallantry. The webpage aims to honor his bravery and sacrifice for the nation.
@@ -54,10 +53,12 @@ The project consists of the following files:
 To view the webpage, simply open the `index.html` file in any web browser. Ensure all the associated media files (images, video, and CSS) are in the same directory to display correctly.
 
 
-# Basic To-Do Webapp
-<a href="https://github.com/Ankit-Singh1234/OIBSIP/tree/main/TASK%203%20A%20Basic%20To-Do%20Webapp">Task 1: Task 1: A Basic To-Do Webapp  </a>
+# Task 3: A Basic To-Do Webapp
 
-## Task 3: A Basic To-Do Webapp
+
+<a href="https://github.com/Ankit-Singh1234/OIBSIP/tree/main/TASK%203%20A%20Basic%20To-Do%20Webapp">Task 3: A Basic To-Do Webapp  </a>
+
+
 
 
 
@@ -94,10 +95,13 @@ To use the To-Do Webapp:
 
 
 
-#TASK 4 Login authentication
-<a href="https://github.com/Ankit-Singh1234/OIBSIP/tree/main/TASK%204%20Login%20authentication">:TASK 4 : A Basic To-Do Webapp Basic Login and Registration Web App </a>
+#TASK 4 Login authentication 
 
-# Basic Login and Registration Web App
+
+<br>
+<a href="https://github.com/Ankit-Singh1234/OIBSIP/tree/main/TASK%204%20Login%20authentication">:TASK 4 Login authentication </a>
+
+
 
 This project is a simple web application that allows users to register, log in, and access a secure page. The app consists of three main pages: a registration page (`index.html`), a login page (`login.html`), and a secure page (`secure.html`). The app uses HTML, CSS, and JavaScript to manage user registration and authentication using local storage.
 
