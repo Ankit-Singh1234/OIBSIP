@@ -6,7 +6,6 @@ document.addEventListener('DOMContentLoaded', () => {
 
     let tasks = JSON.parse(localStorage.getItem('tasks')) || [];
 
-    // Load tasks from localStorage
     loadTasks();
 
     addTaskBtn.addEventListener('click', addTask);
@@ -73,7 +72,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         if (newTaskText !== null && newTaskText.trim() !== '') {
             task.text = newTaskText.trim();
-            task.addedAt = new Date().toLocaleString(); // Update the time as well
+            task.addedAt = new Date().toLocaleString(); 
             saveTasks();
             loadTasks();
         }
