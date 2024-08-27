@@ -2,12 +2,10 @@ document.addEventListener('DOMContentLoaded', () => {
     const display = document.getElementById('display');
     let expression = '';
 
-    // Function to update the display
     const updateDisplay = () => {
         display.textContent = expression || '0';
     };
-
-    // Function to handle button clicks
+    
     const handleButtonClick = (event) => {
         const value = event.target.textContent;
 
@@ -32,7 +30,7 @@ document.addEventListener('DOMContentLoaded', () => {
         } else if (value === 'x³') {
             expression = Math.pow(eval(expression), 3).toString();
         } else if (value === 'x^y') {
-            expression += '**'; // Use '**' for exponentiation in JavaScript
+            expression += '**'; 
         } else if (value === 'e^x') {
             expression = Math.exp(eval(expression)).toString();
         } else if (value === '10^x') {
@@ -68,7 +66,6 @@ document.addEventListener('DOMContentLoaded', () => {
         updateDisplay();
     };
 
-    // Add event listeners to buttons
     document.querySelectorAll('.btn').forEach(button => {
         button.addEventListener('click', handleButtonClick);
     });
